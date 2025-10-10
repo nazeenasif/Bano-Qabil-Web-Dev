@@ -21,8 +21,11 @@ It includes user authentication (Sign In / Sign Up), product listing from APIs, 
 ### 🏠 Home Page  
 ![Home Page Screenshot](./screenshots/home.png)
 
-### 🔐 Sign In / Sign Up Page  
-![Auth Page Screenshot](./screenshots/auth.png)
+### 🔐 Sign In 
+![Auth Page Screenshot](./screenshots/sign-in.png)
+
+### 🔐 Sign Up Page  
+![Auth Page Screenshot](./screenshots/sign-up.png)
 
 ### 🛒 Product Page  
 ![Product Page Screenshot](./screenshots/products.png)
